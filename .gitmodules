@@ -13,3 +13,6 @@
 [submodule "teamviewer"]
 	path = teamviewer
 	url = https://aur.archlinux.org/teamviewer.git
+[submodule "yaourt"]
+	path = yaourt
+	url = https://aur.archlinux.org/yaourt.git
