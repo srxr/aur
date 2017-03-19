@@ -1,3 +1,6 @@
 [submodule "anydesk"]
 	path = anydesk
 	url = https://aur.archlinux.org/anydesk.git
+[submodule "dropbox"]
+	path = dropbox
+	url = https://aur.archlinux.org/dropbox.git
