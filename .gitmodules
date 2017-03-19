@@ -4,3 +4,6 @@
 [submodule "dropbox"]
 	path = dropbox
 	url = https://aur.archlinux.org/dropbox.git
+[submodule "preload"]
+	path = preload
+	url = https://aur.archlinux.org/preload.git
