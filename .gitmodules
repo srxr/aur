@@ -10,3 +10,6 @@
 [submodule "sublime-text-dev"]
 	path = sublime-text-dev
 	url = https://aur.archlinux.org/sublime-text-dev.git
+[submodule "teamviewer"]
+	path = teamviewer
+	url = https://aur.archlinux.org/teamviewer.git
