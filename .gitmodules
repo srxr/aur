@@ -16,3 +16,6 @@
 [submodule "yaourt"]
 	path = yaourt
 	url = https://aur.archlinux.org/yaourt.git
+[submodule "cryptomator"]
+	path = cryptomator
+	url = https://aur.archlinux.org/cryptomator.git
